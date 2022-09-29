@@ -18,7 +18,7 @@ const item2 = {
   name: 'Meditation',
   desc: 'Mindfulness, Transcendental',
   startDate: '2022-09-28',
-  endDate: '2021-06-28',
+  endDate: '2022-09-28',
   time: '08:00',
 }
 
